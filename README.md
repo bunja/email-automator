@@ -1,1 +1,2 @@
 # email-automator
+# simple-blog
